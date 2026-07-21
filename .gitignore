@@ -1,0 +1,34 @@
+# === Vivado generated / build artifacts ===
+# Regenerated automatically whenever the project is opened or built,
+# so none of this should be committed.
+
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Logs, journals, backups, process-id status files
+*.jou
+*.log
+*.backup
+*.backup.jou
+vivado*.jou
+vivado*.log
+vivado_pid*.str
+dfx_runtime*
+
+# Vivado temp / waveform / checkpoint files
+*.wdb
+*.pb
+*.dcp.bak
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor junk
+.vscode/
+*.swp
